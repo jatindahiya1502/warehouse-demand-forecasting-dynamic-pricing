@@ -16,6 +16,16 @@ It uses a LightGBM regression model to predict product demand and a rule-based p
 - **What-if Simulation:** Evaluates how changes in product prices may affect demand, revenue, and profit.
 - **Interactive Dashboard:** Visualizes forecasts, inventory information, pricing recommendations, and simulation results.
 - **REST API:** Provides backend endpoints through FastAPI.
+## Application Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### Demand Forecasting
+![Demand Forecast](screenshots/demand-forecast.png)
+
+### What-if Price Simulation
+![What-if Simulation](screenshots/what-if-simulation.png)
 
 ## Tech Stack
 
